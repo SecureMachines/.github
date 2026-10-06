@@ -28,7 +28,7 @@ Three foundational primitives, usable as standalone systems or embedded as secur
 
 | Product | What it is | Highlights |
 | :-- | :-- | :-- |
-| **Prastaara** | PQC Hardware Security Module (HSM) | ML-KEM, ML-DSA, SLH-DSA, Classic McEliece alongside classical algorithms; PKCS#11 interface; FIPS 140-3 ready / planned |
+| **Prastaara** | PQC Hardware Security Module (HSM) | ML-KEM, ML-DSA, SLH-DSA alongside classical algorithms; PKCS#11 interface; FIPS 140-3 ready / planned |
 | **Augha** | Hardware entropy engine (TRNG) | NIST SP 800-90B compliant TRNG; hybrid TRNG + DRBG random bit generator per SP 800-90C |
 | **Pingala** | Edge / network cryptography device | IPsec Layer-3 with post-quantum algorithms; plug-and-play upgrade for existing endpoints |
 
